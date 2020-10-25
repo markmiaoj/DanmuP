@@ -1,4 +1,4 @@
-# danmup1
+# DanmuP
 
 ## Project setup
 ```
